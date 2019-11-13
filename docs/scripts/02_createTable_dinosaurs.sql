@@ -1,5 +1,5 @@
 CREATE TABLE `dinosaurios`(
-  `iddinosaurios` BIGINT(500) NOT NULL,
+  `iddinosaurios` BIGINT(50) NOT NULL,
   `dinosauriosNombre` VARCHAR(60) NULL,
   `dinosauriosPeso` DECIMAL(10,2) NULL,
   `dinosauriosClase` VARCHAR(60) NULL,
