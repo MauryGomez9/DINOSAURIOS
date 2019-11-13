@@ -16,4 +16,4 @@ require_once "models/dinosaurios.model.php";
       renderizar("dinosaurioslist", $viewData);
   }
   run();
-?
+?>
